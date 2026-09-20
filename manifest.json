@@ -1,0 +1,11 @@
+"background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "My personal ai",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "kinematics901-png.github",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "com.persional.ai"
+}
